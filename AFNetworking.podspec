@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name     = 'AFNetworking'
   s.version  = '2.5.4'
   s.license  = 'MIT'
-  s.summary  = 'A delightful iOS and OS X networking framework.'
+  s.summary  = 'A delightful iOS and OS X networking framework without any references to UIWebViews. Modified as a stop gap for version 2.5.4 to meet Apple requirements.'
   s.homepage = 'https://github.com/AFNetworking/AFNetworking'
   s.social_media_url = 'https://twitter.com/AFNetworking'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
